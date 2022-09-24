@@ -1,1 +1,1 @@
-#Live Server Link: {https://afridi-react-router.netlify.app/}
+#Live Server Link: https://afridi-react-router.netlify.app
